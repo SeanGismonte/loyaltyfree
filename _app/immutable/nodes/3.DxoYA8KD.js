@@ -1,0 +1,1 @@
+import{a as t,f as m}from"../chunks/7GypggT8.js";import"../chunks/BKBv44Th.js";var n=m('<html class="no-js" lang=""><body><h1>Missing</h1></body></html>');function p(o){var a=n();t(o,a)}export{p as component};
